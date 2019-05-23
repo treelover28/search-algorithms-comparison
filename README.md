@@ -2,7 +2,7 @@
 Compare 3 simple search algorithms and their running time growths in Big-O notations
 
 ## Problem Statement
-Suppose you have a sorted array of integers and would like to determine if there exists an element x, such that x and -x are both in the array.  For example:
+Suppose you have a **sorted array of integers** and would like to determine if there exists an element x, such that x and -x are both in the array.  For example:
 
 * For the array <-4, -2, 1, 3, 5, 7, 9>, the algorithm returns false, because there is no element whose negative is in the array
 * For the array <-4, -2, 1, 2, 3, 5, 7, 9> then the algorithm returns true, since 2 and -2 are both in the array
